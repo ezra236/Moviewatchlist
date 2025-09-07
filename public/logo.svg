@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Watchlist app logo">
+  <title>Watchlist App Logo</title>
+  <desc>Rounded square with play triangle and checkmark to suggest a movie watchlist</desc>
+  <defs>
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.15"></feDropShadow>
+    </filter>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="44" fill="#4FC3F7" filter="url(#softShadow)"></rect>
+  <path d="M108 88 L160 120 L108 152 Z" fill="white" opacity="0.95"></path>
+  <path d="M92 168 q10 10 20 20 q28 -28 52 -60" fill="none" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
